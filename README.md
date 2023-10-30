@@ -2,7 +2,7 @@
 
 This repository contains a Leo program that performs linear regression on a set of data points using the method of least squares. The implementation is designed to calculate the coefficients of a linear model that best fits the input data. The model is of the form:
 
-![equation_formula.png](img/equation_formula.png)
+![equation_formula.png](img/equation_model.png)
 
 ## Methodology
 
